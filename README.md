@@ -46,12 +46,6 @@ SQL was used to:
 
 Example query:
 
-
----
-
-# Python Analysis Section
-
-```markdown
 ## Python Analysis
 
 Python was used for:
@@ -59,7 +53,7 @@ Python was used for:
 - Exploratory data analysis
 - Visualization development
 
-Libraries:
+### Libraries Used
 - numpy
 - pandas
 - matplotlib
@@ -68,7 +62,7 @@ Libraries:
 
 ---
 
-## Power BI Dashboard
+# Power BI Dashboard
 
 Interactive dashboard created to monitor:
 - Patient readmission trends
@@ -76,18 +70,22 @@ Interactive dashboard created to monitor:
 - Hospital stay duration
 - Procedure and medication analysis
 
-## Key Insights
+---
+
+# Key Insights
 
 - Higher readmission rates were observed among elderly patients
 - Longer hospital stays showed stronger correlation with readmission risk
 - Certain procedure categories were associated with repeat admissions
 - Readmission patterns varied across demographic groups
 
-## Future Improvements
+---
+
+# Future Improvements
 
 - Develop predictive machine learning models
 - Deploy dashboard to cloud platforms
 - Incorporate real-time hospital data feeds
 
-
+---
 
