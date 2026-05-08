@@ -62,16 +62,6 @@ Python was used for:
 
 ---
 
-# Power BI Dashboard
-
-Interactive dashboard created to monitor:
-- Patient readmission trends
-- Demographic breakdowns
-- Hospital stay duration
-- Procedure and medication analysis
-
----
-
 # Key Insights
 
 - Higher readmission rates were observed among elderly patients
