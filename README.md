@@ -12,9 +12,6 @@ This project analyzes patient encounter data to identify patterns associated wit
 - SQL
 - Python
 - Power BI
-- Pandas
-- Matplotlib
-- Scikit-learn
 
 - ## Dataset
 
