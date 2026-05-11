@@ -31,6 +31,19 @@ The dataset contains patient encounter information including:
 4. Visualization development in Power BI
 5. Readmission trend analysis and business insights
 
+## Excel Analysis
+
+- Created pivot tables and KPI summaries
+- Analyzed readmission trends by gender and age
+- Generated statistical summaries for procedures and medications
+
+## SQL Analysis
+
+SQL was used to:
+- Aggregate patient encounter data
+- Identify high-risk age groups
+- Analyze readmission frequency patterns
+
 ## Python Analysis
 
 Python was used for:
@@ -44,8 +57,15 @@ Python was used for:
 - matplotlib
 - seaborn
 - scipy
-
 ---
+
+## Power BI Dashboard
+
+Interactive dashboard created to monitor:
+- Patient readmission trends
+- Demographic breakdowns
+- Hospital stay duration
+- Procedure and medication analysis
 
 # Key Insights
 
