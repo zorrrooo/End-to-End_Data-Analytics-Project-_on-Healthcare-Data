@@ -40,7 +40,7 @@ The dataset contains patient encounter information including:
 ### Gender Segregation
 ![Gender Segregation](images/Gender_Segregation.png)
 
-### Readmitted Patients by Age
+### Readmitted Patients by Category
 ![Readmitted Patients](images/Readmitted_Patients.png)
 
 ### Note
