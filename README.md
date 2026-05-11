@@ -6,7 +6,7 @@ Hospital readmissions increase healthcare costs and may indicate gaps in patient
 
 This project analyzes patient encounter data to identify patterns associated with 30-day hospital readmissions and provides actionable insights using Excel, SQL, Python, and Power BI.
 
-## Tools & Technologies
+## Tools
 
 - Excel
 - SQL
