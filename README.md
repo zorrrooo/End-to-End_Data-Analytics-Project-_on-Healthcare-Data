@@ -37,13 +37,11 @@ The dataset contains patient encounter information including:
 - Analyzed readmission trends by gender and age
 - Generated statistical summaries for procedures and medications
 
-!## Excel Analysis
+### Gender Segregation
+![Gender Segregation](images/Gender_Segregation.png)
 
 ### Readmitted Patients
 ![Readmitted Patients](images/Readmitted_Patients.png)
-
-### Gender Segregation
-![Gender Segregation](images/Gender_Segregation.png)
 
 ### Note
 
