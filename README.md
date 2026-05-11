@@ -37,6 +37,10 @@ The dataset contains patient encounter information including:
 - Analyzed readmission trends by gender and age
 - Generated statistical summaries for procedures and medications
 
+### Note
+
+The original dataset contained 100,000+ records and was excluded from GitHub due to file size limitations. A cleaned sample dataset is included for project demonstration purposes.
+
 ## SQL Analysis
 
 SQL was used to:
