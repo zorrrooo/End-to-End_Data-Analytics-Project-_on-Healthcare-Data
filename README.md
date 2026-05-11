@@ -57,7 +57,6 @@ Python was used for:
 - matplotlib
 - seaborn
 - scipy
----
 
 ## Power BI Dashboard
 
@@ -66,6 +65,8 @@ Interactive dashboard created to monitor:
 - Demographic breakdowns
 - Hospital stay duration
 - Procedure and medication analysis
+
+---
 
 # Key Insights
 
